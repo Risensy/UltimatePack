@@ -1,4 +1,4 @@
-// Copyright 2023, Risensy
+// Copyright 2024, Risensy
 #include "UltimatePack.h"
 
 #define LOCTEXT_NAMESPACE "FUltimatePackModule"

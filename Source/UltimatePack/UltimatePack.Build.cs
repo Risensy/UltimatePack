@@ -1,4 +1,4 @@
-// Copyright 2023, Risensy
+// Copyright 2024, Risensy
 
 using UnrealBuildTool;
 
